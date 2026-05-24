@@ -6,7 +6,7 @@ Uma série de ferramentas que ajudam a fazer pentest/bugbounty em aplicações w
 # Lista de Ferramentas
 
 NMAP - Encontrar Portas abertas e Vulnerabilidades  
-Cariddi - Encontrar vulnerabilidades em Sites PHP  
+cariddi - Encontrar vulnerabilidades em Sites PHP  
 sqlmap - Entrar em Banco de dados de sites  
 subfinder - Encontrar subdomínios  
 subzy - Encontrar subdomínios vulneráveis a subdomain take over  
