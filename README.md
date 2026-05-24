@@ -1,16 +1,16 @@
 # HackTools-Linux
 
-Uma série de ferramentas que ajudam a fazer pentest/bugbounty em aplicações web  
+Uma série de ferramentas que ajudam a fazer pentest/bugbounty em aplicações web.  
 (Versão de Linux)
 
 # Lista de Ferramentas
 
-NMAP - Encontrar Portas abertas e Vulnerabilidades
-Cariddi - Encontrar vulnerabilidades em Sites PHP
-sqlmap - Entrar em Banco de dados de sites
-subfinder - Encontrar subdomínios
-subzy - Encontrar subdomínios vulneráveis a subdomain take over
-gobuster - Encontrar Diretorios Escondidos
+NMAP - Encontrar Portas abertas e Vulnerabilidades  
+Cariddi - Encontrar vulnerabilidades em Sites PHP  
+sqlmap - Entrar em Banco de dados de sites  
+subfinder - Encontrar subdomínios  
+subzy - Encontrar subdomínios vulneráveis a subdomain take over  
+gobuster - Encontrar Diretorios Escondidos  
 ddos - Derrubar sites  
 
 # Como baixar
